@@ -9,7 +9,7 @@ This is a custom build of DWM, the Dynamic Window Manager, with some additional 
 
 ```shell
 # Clone the repository
-git clone https://github.com/nyx-v/custom-dwm-build.git
+git clone https://github.com/c0ven/custom-dwm-build.git
 
 # Navigate to the source directory
 cd dwm
